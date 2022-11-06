@@ -1,0 +1,1 @@
+* When something is halved at every step, it has a O(log n) time complexity.
